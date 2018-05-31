@@ -1,0 +1,52 @@
+.container{
+width: 800px;
+height: 800px;
+background: yellowgreen;
+margin: 0 auto;
+}
+.total{
+width: 100%;
+height: 700px;
+background: #62c1d5;
+}
+.sidebar{
+width: 20%;
+height: 700px;
+background: #c2d562;
+float: left;
+}
+.header{
+width: 80%;
+height: 100px;
+background: #84d562;
+float:left;
+}
+.middle{
+width: 80%;
+height: 300px;
+background: #f1b021;
+float: left;
+}
+.m1{
+width: 50%;
+height: 300px;
+background: #eef121;
+float: left;
+}
+.m2{
+width: 50%;
+height: 300px;
+background: #2d88f2;
+float:left;
+}
+.description{
+width: 80%;
+height: 300px;
+background: #822df2;
+float:left;
+}
+.footer{
+width: 100%;
+height: 100px;
+background: #5959f2;
+}
